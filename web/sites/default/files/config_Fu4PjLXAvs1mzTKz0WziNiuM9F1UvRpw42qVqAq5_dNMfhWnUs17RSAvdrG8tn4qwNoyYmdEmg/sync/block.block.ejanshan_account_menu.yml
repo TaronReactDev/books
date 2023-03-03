@@ -1,6 +1,6 @@
 uuid: 15f5e3cb-ab82-4fcb-ac9b-ff5afe6f22b9
 langcode: hy
-status: true
+status: false
 dependencies:
   config:
     - system.menu.account
