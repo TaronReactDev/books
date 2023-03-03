@@ -7,7 +7,6 @@ base theme: olivero
 # Defines libraries group in which we can add CSS/JS.
 libraries:
   - ejanshan/global-styling
-  - ejanshan/bootstrap
 # Regions, quote the names
 regions:
   header: Header
