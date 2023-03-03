@@ -1,0 +1,13 @@
+uuid: b6519f33-e4c2-4a4c-b272-5a0947fdd22e
+langcode: hy
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 2B9uF8NL5gutNKSdPRAhhAsDWFZZG1PJOBmx0aBGd_0
+id: node_publish_action
+label: 'Հրապարակել բովանդակությունը'
+type: node
+plugin: 'entity:publish_action:node'
+configuration: {  }

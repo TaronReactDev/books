@@ -1,0 +1,22 @@
+uuid: 7e5d3587-3702-4bac-9393-67cf3796d1e4
+langcode: hy
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - ejanshan
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: ejanshan_help
+theme: ejanshan
+region: content_above
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

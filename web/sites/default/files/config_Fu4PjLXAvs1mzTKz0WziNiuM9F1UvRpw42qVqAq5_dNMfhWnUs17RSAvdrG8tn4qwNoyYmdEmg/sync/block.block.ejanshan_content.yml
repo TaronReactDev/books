@@ -1,0 +1,22 @@
+uuid: 59ad6744-099d-434e-b5df-31706ab0e3a8
+langcode: hy
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ejanshan
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: ejanshan_content
+theme: ejanshan
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

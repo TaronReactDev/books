@@ -1,0 +1,23 @@
+uuid: 71dc27df-3507-4173-bf68-e18c771ba930
+langcode: hy
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_arjek
+    - node.type.grqer
+id: node.grqer.field_arjek
+field_name: field_arjek
+entity_type: node
+bundle: grqer
+label: "Արժեքը\t"
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: դրամ
+field_type: integer

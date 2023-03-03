@@ -1,0 +1,12 @@
+uuid: 98f293c6-7d8f-4ce3-a536-8a71a994727b
+langcode: hy
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: flXhTcp55yLcyy7ZLOhPGKGZobZQJdkAFVWV3LseiuI
+id: user.register
+label: Գրանցվել
+targetEntityType: user
+cache: true

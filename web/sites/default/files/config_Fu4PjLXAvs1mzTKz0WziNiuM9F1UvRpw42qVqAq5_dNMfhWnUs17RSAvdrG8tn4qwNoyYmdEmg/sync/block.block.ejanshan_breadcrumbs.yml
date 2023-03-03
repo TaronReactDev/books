@@ -1,0 +1,22 @@
+uuid: f39ab9cb-5891-47c1-9306-54d8597bed3f
+langcode: hy
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ejanshan
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: ejanshan_breadcrumbs
+theme: ejanshan
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,13 @@
+uuid: c412c6ef-6a3a-4dbd-ae36-404655384996
+langcode: hy
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: SPsUXsR3Rc8d1y3gewzaAKWa1ncea_ywXX3f7LTn7k0
+id: user_unblock_user_action
+label: 'Վերականգնել նշված օգտատերերին'
+type: user
+plugin: user_unblock_user_action
+configuration: {  }

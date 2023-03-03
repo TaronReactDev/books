@@ -1,0 +1,17 @@
+uuid: fd712cf0-a908-4b94-8533-989e1174d091
+langcode: hy
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Գրքեր
+type: grqer
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

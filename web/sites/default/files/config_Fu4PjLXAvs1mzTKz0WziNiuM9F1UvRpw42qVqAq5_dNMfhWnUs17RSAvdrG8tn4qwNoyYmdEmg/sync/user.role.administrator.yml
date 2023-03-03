@@ -1,0 +1,11 @@
+uuid: 67022a1c-053c-4516-96f1-2919a81fc2b8
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OeKGIkmZA_c-t6QLH81WNQx8gDCc1MRmxaTuQgxBByU
+id: administrator
+label: Ադմինիստրատոր
+weight: 3
+is_admin: true
+permissions: {  }

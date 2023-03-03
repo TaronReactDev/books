@@ -1,0 +1,22 @@
+uuid: 7d4f8a5f-5daf-49d6-a442-cf1b388af7c7
+langcode: hy
+status: true
+dependencies:
+  theme:
+    - ejanshan
+_core:
+  default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
+id: ejanshan_secondary_local_tasks
+theme: ejanshan
+region: highlighted
+weight: -2
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Secondary tabs'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

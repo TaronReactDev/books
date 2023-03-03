@@ -1,0 +1,13 @@
+uuid: 71db3b8f-5e92-448f-be7b-4258d333b7f1
+langcode: hy
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: t43OqwzP3CTbcAagSsWKNy6KwMm_zShXo3c4-So6rQg
+id: node_delete_action
+label: 'Ջնջել բովանդակությունը'
+type: node
+plugin: 'entity:delete_action:node'
+configuration: {  }

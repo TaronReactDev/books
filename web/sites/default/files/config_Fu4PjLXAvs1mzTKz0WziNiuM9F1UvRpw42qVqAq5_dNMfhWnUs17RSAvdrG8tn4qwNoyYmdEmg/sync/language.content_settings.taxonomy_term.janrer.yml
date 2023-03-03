@@ -1,0 +1,11 @@
+uuid: 3bf9696c-da53-4af6-a729-37c028f60330
+langcode: hy
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.janrer
+id: taxonomy_term.janrer
+target_entity_type_id: taxonomy_term
+target_bundle: janrer
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,12 @@
+uuid: 16a75a6b-0461-4a76-a677-69022a0ed804
+langcode: hy
+status: false
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: mQIF_foYjmnVSr9MpcD4CTaJE_FpO1AyDd_DskztGhM
+id: user.full
+label: Պրոֆիլ
+targetEntityType: user
+cache: true

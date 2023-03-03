@@ -1,0 +1,23 @@
+uuid: 01e41174-ffbc-4165-a3b3-42ddfc796401
+langcode: hy
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.grqer
+  module:
+    - text
+id: node.grqer.body
+field_name: body
+entity_type: node
+bundle: grqer
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary

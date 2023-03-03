@@ -1,0 +1,11 @@
+uuid: 7a5aa422-f177-4e97-a22a-327b916c67fd
+langcode: hy
+status: true
+dependencies:
+  config:
+    - node.type.grqer
+id: node.grqer
+target_entity_type_id: node
+target_bundle: grqer
+default_langcode: hy
+language_alterable: false

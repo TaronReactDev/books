@@ -1,0 +1,13 @@
+uuid: 56e67a20-3278-4b70-a58e-166304fb6e9e
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AeW1SEDgb1OTQACAWGhzvMknMYAJlcZu0jljfeU3oso
+name: Հոդված
+type: article
+description: 'Օգտագործել  <em>հոդվածները </em> շտապ բովանդակությունով ինչպիսիք են՝ նորությունները, մամլո հազորդագրությունները կամ բլոգի գրառումները :'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

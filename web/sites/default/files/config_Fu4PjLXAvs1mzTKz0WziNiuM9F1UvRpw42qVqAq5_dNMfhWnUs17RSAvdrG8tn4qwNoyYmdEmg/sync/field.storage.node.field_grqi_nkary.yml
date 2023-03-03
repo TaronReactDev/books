@@ -1,0 +1,20 @@
+uuid: bd5b3caf-c20c-4837-826c-7a749b9b9f92
+langcode: hy
+status: true
+dependencies:
+  module:
+    - media
+    - node
+id: node.field_grqi_nkary
+field_name: field_grqi_nkary
+entity_type: node
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

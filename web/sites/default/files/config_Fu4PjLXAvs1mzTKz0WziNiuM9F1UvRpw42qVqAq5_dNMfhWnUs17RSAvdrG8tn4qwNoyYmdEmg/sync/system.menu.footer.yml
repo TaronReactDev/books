@@ -1,0 +1,10 @@
+uuid: 99d399d6-997e-440d-9b76-5c24a65fcc0a
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7yrlW5z9zdg2eBucB2GPqXKSMQfH9lSRSO4DbWF7AFc
+id: footer
+label: 'Էջի ներքևի հատված'
+description: 'Site information links'
+locked: true

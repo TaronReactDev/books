@@ -1,0 +1,13 @@
+uuid: 3f1c9675-8a5d-4b42-9752-8e56160fdb9d
+langcode: hy
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: DyypzTfThX10FFQw-399qPfEbLLyrhXgQrKPVsmAoJ4
+id: user_block_user_action
+label: 'Արգելափակել նշված օգտատերերին'
+type: user
+plugin: user_block_user_action
+configuration: {  }

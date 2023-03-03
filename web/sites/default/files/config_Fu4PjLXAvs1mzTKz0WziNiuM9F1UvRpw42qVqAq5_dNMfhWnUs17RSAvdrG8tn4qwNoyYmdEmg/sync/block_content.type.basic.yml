@@ -1,0 +1,10 @@
+uuid: ae48bd28-7233-4489-9f8d-dcb4a60dc9ad
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zglzjmYxi0G0ag9MZ02y0LSJOdpWRwJxyP_OvFojFyo
+id: basic
+label: 'Հիմնական բլոկ'
+revision: 0
+description: 'Հիմնական բլոկը պարունակում է վերնագիր և բովանդակություն'

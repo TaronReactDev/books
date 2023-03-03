@@ -1,0 +1,35 @@
+uuid: 39337dd2-b6df-4856-aee7-65e6acf3c55f
+langcode: hy
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.grqer.body
+    - field.field.node.grqer.field_arjek
+    - field.field.node.grqer.field_grqi_nkary
+    - node.type.grqer
+  module:
+    - text
+    - user
+id: node.grqer.teaser
+targetEntityType: node
+bundle: grqer
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_arjek: true
+  field_grqi_nkary: true
+  langcode: true

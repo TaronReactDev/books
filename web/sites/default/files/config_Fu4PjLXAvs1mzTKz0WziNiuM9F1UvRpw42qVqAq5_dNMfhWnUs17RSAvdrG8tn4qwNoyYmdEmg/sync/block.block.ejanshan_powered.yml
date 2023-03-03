@@ -1,0 +1,22 @@
+uuid: a54f709a-9349-45f7-8390-d2738a8fed3f
+langcode: hy
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ejanshan
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: ejanshan_powered
+theme: ejanshan
+region: footer_bottom
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

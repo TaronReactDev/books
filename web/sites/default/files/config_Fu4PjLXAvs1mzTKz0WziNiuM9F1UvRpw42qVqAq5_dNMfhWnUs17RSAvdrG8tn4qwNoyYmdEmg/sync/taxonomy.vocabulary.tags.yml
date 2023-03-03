@@ -1,0 +1,10 @@
+uuid: 5a9a0a47-32df-40f2-b889-5bc5cd38a8d6
+langcode: hy
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yoNVreoTdTZTY7GuE8fI9Jmxqdz8vlo4ZJKixMNSosw
+name: Թեգեր
+vid: tags
+description: 'Օգտագործեք թեգեր խմբավորելու համար հոդվածները նմանատիպ թեմաները բաժիններում:'
+weight: 0
