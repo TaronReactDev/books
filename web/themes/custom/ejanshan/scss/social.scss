@@ -1,0 +1,40 @@
+.field.field--name-field-social-icons.field--type-entity-reference-revisions.field--label-above {
+  .field__label {
+    display: none;
+  }
+  .field__items {
+    position: sticky;
+    top: 200px;
+  }
+}
+
+
+.social-icon {
+  font-size: 30px;
+}
+
+.social-bar__inner{
+  .rotate {
+    transform: rotate(360deg)  translateX(-50%);
+  }
+}
+
+
+@media screen and (max-width: 1201px){
+
+  .social-bar__inner{
+    .rotate {
+      transform: rotate(90deg);
+    }
+    .field__items {
+      display: flex;
+      /* justify-content: center; */
+      align-items: center;
+      flex-direction: column-reverse;
+    }
+   .field__item{
+      transform: rotate(270deg);
+
+    }
+  }
+}

@@ -1,6 +1,17 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-
 @import "sidebar";
 @import "menu";
+@import "logo";
 @import "footer";
+@import "books-teaser";
+@import "social";
+
+
+a {
+  color: dimgrey;
+
+  &:hover {
+    color: dimgrey;
+  }
+}

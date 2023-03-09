@@ -1,0 +1,29 @@
+.view-content{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.article .contextual-region .node  .node--type-grqer .node--view-mode-teaser{
+  margin: 0;
+
+}
+.node__content{
+  padding: 0;
+
+}
+.layout.layout--twocol-section.layout--twocol-section--33-67{
+  padding: 0;
+  margin: 0;
+}
+.node--view-mode-teaser:after{
+  content: none !important;
+
+}
+
+
+@media screen and (max-width: 1200px ) {
+  .w-50.views-row{
+    width: 100% !important;
+  }
+}
